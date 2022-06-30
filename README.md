@@ -1,3 +1,6 @@
+python 3.7.12
+
+
 # packages in environment at /opt/conda:
 #
 # Name                    Version                   Build  Channel
