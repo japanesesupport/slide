@@ -6,20 +6,6 @@ https://officerakuten.sharepoint.com/sites/EnglishnizationPotal/Shared%20Documen
 
 Python 核心编程 第二版 https://wizardforcel.gitbooks.io/core-python-2e/content/8.html
 
-
-beneficiary
-slump 
-defy
-contraction
-linger
-scramble 
-waning
-
-
 加拿大移民program汇总 https://www.canadavisa.com/canada-pnp-finder-and-tracker.html#programs
-
-vigorous
-facilitating
-a further substantial increase in its fleet
 
 The Annotated Transformer http://nlp.seas.harvard.edu/annotated-transformer/
