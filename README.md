@@ -9,3 +9,6 @@ Python 核心编程 第二版 https://wizardforcel.gitbooks.io/core-python-2e/co
 加拿大移民program汇总 https://www.canadavisa.com/canada-pnp-finder-and-tracker.html#programs
 
 The Annotated Transformer http://nlp.seas.harvard.edu/annotated-transformer/
+
+【徹底解説】VAEをはじめからていねいに  https://academ-aid.com/ml/vae
+
