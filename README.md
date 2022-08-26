@@ -18,5 +18,6 @@ Python 核心编程 第二版 https://wizardforcel.gitbooks.io/core-python-2e/co
 **ML**
 
 The Annotated Transformer http://nlp.seas.harvard.edu/annotated-transformer/
+
 【徹底解説】VAEをはじめからていねいに  https://academ-aid.com/ml/vae
 
