@@ -33,6 +33,8 @@ Bert源代码解读-以BERT文本分类代码为例子 https://github.com/DA-sou
 
 Transformer你问我答 https://zhuanlan.zhihu.com/p/429061708
 
+为什么 Bert 的三个 Embedding 可以进行相加？  https://www.zhihu.com/question/374835153/answer/1042845667
+
 
 
 
