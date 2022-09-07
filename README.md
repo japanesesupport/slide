@@ -11,8 +11,14 @@ Python 核心编程 第二版 https://wizardforcel.gitbooks.io/core-python-2e/co
 
 
 **FX**
+
 CME FedWatch Tool  https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html
 
+中国银行外汇牌价  https://www.boc.cn/sourcedb/whpj/
+
+中国银行外汇市场分析  https://www.bankofchina.com/fimarkets/foreignx/
+
+今週の注目経済指標  https://www.sbifxt.co.jp/market/economic_calendar.html
 
 
 
@@ -20,9 +26,7 @@ CME FedWatch Tool  https://www.cmegroup.com/trading/interest-rates/countdown-to-
 **CA**
 
 加拿大移民program汇总 https://www.canadavisa.com/canada-pnp-finder-and-tracker.html#programs
-中国银行外汇牌价  https://www.boc.cn/sourcedb/whpj/
-中国银行外汇市场分析  https://www.bankofchina.com/fimarkets/foreignx/
-今週の注目経済指標  https://www.sbifxt.co.jp/market/economic_calendar.html
+
 
 
 
