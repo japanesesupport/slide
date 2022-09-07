@@ -20,6 +20,9 @@ CME FedWatch Tool  https://www.cmegroup.com/trading/interest-rates/countdown-to-
 
 今週の注目経済指標  https://www.sbifxt.co.jp/market/economic_calendar.html
 
+政策金利  https://www.gaitame.com/markets/seisakukinri/
+
+
 
 
 
