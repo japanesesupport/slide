@@ -30,6 +30,7 @@ CME FedWatch Tool  https://www.cmegroup.com/trading/interest-rates/countdown-to-
 
 加拿大移民program汇总 https://www.canadavisa.com/canada-pnp-finder-and-tracker.html#programs
 
+润学 https://runoutfor.life/methodology/choose-country/canada/requirement
 
 
 
