@@ -54,6 +54,12 @@ Transformer你问我答 https://zhuanlan.zhihu.com/p/429061708
 
 为什么 Bert 的三个 Embedding 可以进行相加？  https://www.zhihu.com/question/374835153/answer/1042845667
 
+The Illustrated Transformer  https://jalammar.github.io/illustrated-transformer/
+
+超详细图解Self-Attention  https://zhuanlan.zhihu.com/p/410776234
+
+
+
 
 
 
