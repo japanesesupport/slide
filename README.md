@@ -10,6 +10,9 @@
 Python 核心编程 第二版 https://wizardforcel.gitbooks.io/core-python-2e/content/8.html
 
 
+
+
+
 **FX**
 
 CME FedWatch Tool  https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html
@@ -58,7 +61,7 @@ The Illustrated Transformer  https://jalammar.github.io/illustrated-transformer/
 
 超详细图解Self-Attention  https://zhuanlan.zhihu.com/p/410776234
 
-
+CS194 Full Stack Deep Learning(1) Setting up Machine Learning Projects https://www.zybuluo.com/wanghuijiao/note/1809709
 
 
 
