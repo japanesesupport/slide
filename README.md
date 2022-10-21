@@ -63,6 +63,9 @@ The Illustrated Transformer  https://jalammar.github.io/illustrated-transformer/
 
 CS194 Full Stack Deep Learning(1) Setting up Machine Learning Projects https://www.zybuluo.com/wanghuijiao/note/1809709
 
+Flow-based Deep Generative Models  https://lilianweng.github.io/posts/2018-10-13-flow-models/
+
+让研究人员绞尽脑汁的Transformer位置编码  https://mp.weixin.qq.com/s/QlR528MYCioEuYwJIs20Pg#at
 
 
 
